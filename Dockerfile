@@ -1,1 +1,1 @@
-FROM ghcr.io/suwayomi/suwayomi-server:latest
+FROM ghcr.io/suwayomi/tachidesk:latest
